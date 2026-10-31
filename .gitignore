@@ -1,2 +1,9 @@
-.DS_Store
+# Log files
+play.log
 *.log
+
+# Environment files
+.env
+
+# Build results
+build/
